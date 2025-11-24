@@ -1,0 +1,3 @@
+OPENAI_API_KEY = ""
+
+BOT_TOKEN = ""
