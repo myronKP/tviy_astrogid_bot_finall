@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for tviy-astrogid-bot-finall on 2025-11-24T12:23:40Z
+# fly.toml app configuration file generated for tviy-astrogid-bot-finall-ebvjlg on 2025-11-24T12:33:53Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'tviy-astrogid-bot-finall'
+app = 'tviy-astrogid-bot-finall-ebvjlg'
 primary_region = 'fra'
 
 [build]
